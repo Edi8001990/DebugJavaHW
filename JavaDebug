@@ -1,0 +1,14 @@
+
+1. What is the purpose of a breakpoint?
+   - Is the marker pointing where the execution should be paused.
+
+2. Does the line of code on a breakpoint run when you start debugging
+- No
+
+3. How do we debug the next line of code?
+- By using “Step Over” option
+
+4. What does the step into command do?
+- Goes to method where it’s called
+
+5. What is the difference between evaluate expression and evaluate code fragment?
